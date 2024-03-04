@@ -1,0 +1,22 @@
+li {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  margin: auto;
+}
+
+p {
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+button {
+  color: #ff0b37;
+  background-color: transparent;
+  border-radius: 5px;
+  border-width: 2px;
+  height: 30px;
+  font-size: 20px;
+  width: 70px;
+  border-color: #ff0b37;
+}
